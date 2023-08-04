@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/Framework_Utilities.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/Framework_Selenium.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/Framework_Reporting.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/Framework_DataTable.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/Framework_Core.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/commons-collections-3.2.1 (1).zip"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/commons-collections-3.2.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/aerogear-otp-java-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/webdrivermanager-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Jar/selenium-server-4.11.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
